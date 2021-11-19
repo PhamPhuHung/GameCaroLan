@@ -1,0 +1,23 @@
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\bin\Debug\Game Caro LAN.exe.config
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\bin\Debug\Game Caro LAN.exe
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\bin\Debug\Game Caro LAN.pdb
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.csprojAssemblyReference.cache
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game_Caro_LAN.Form1.resources
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game_Caro_LAN.Properties.Resources.resources
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.csproj.GenerateResource.cache
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.csproj.CoreCompileInputs.cache
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.exe
+C:\Users\phuhu\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.pdb
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.csprojAssemblyReference.cache
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.exe
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.pdb
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\bin\Debug\Game Caro LAN.exe.config
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\bin\Debug\Game Caro LAN.exe
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\bin\Debug\Game Caro LAN.pdb
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.csprojAssemblyReference.cache
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game_Caro_LAN.Form1.resources
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game_Caro_LAN.Properties.Resources.resources
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.csproj.GenerateResource.cache
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.csproj.CoreCompileInputs.cache
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.exe
+C:\Users\chingluh\Desktop\Game Caro LAN\Game Caro LAN\obj\Debug\Game Caro LAN.pdb
